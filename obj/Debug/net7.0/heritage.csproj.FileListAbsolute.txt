@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\heritage\bin\Debug\net7.0\heritage.exe
+C:\Informatique\CSharp\wildschool\heritage\bin\Debug\net7.0\heritage.deps.json
+C:\Informatique\CSharp\wildschool\heritage\bin\Debug\net7.0\heritage.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\heritage\bin\Debug\net7.0\heritage.dll
+C:\Informatique\CSharp\wildschool\heritage\bin\Debug\net7.0\heritage.pdb
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.dll
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\refint\heritage.dll
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.pdb
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\heritage.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\heritage\obj\Debug\net7.0\ref\heritage.dll
